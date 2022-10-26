@@ -1,2 +1,1 @@
-TeamTreeHouse Tech_Degree_Project_1 
-TeamTreeHouse Portfolio Project
+My Personal Profile Page - TeamTreeHouse Tech Degree Project 1
